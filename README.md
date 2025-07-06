@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Here are some of my projects:
+
+- [Weather app](https://github.com/Java-59-Elkin/weather-react-redux)
+- [Bank app](https://github.com/Java-59-Elkin/bank-redux-react)
+- [Accounting form](https://github.com/Java-59-Elkin/accounting-rtk-ts)
+- [Forum service](https://github.com/Java-59-Elkin/forum-service)
+- [Book service](https://github.com/Java-59-Elkin/book-service)
+- [Online store](https://emarketems.web.app/)
+
+
 <!--
 **elkinms/elkinms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
